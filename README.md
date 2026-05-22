@@ -40,26 +40,6 @@ me.say_hi()
 > *"Artificial Intelligence is not a replacement for human intelligence — it's an amplifier of human potential."*
 > — **Andrew Ng**
 
----
-
-## ⚡ Skill Proficiency
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-
-| Skill | Proficiency |
-|---|---|
-| 🤖 Machine Learning | ![90%](https://progress-bar.dev/90?title=&width=420&color=00b4cc) |
-| 🧠 Deep Learning | ![82%](https://progress-bar.dev/82?title=&width=420&color=00d4ff) |
-| 👁️ Computer Vision | ![85%](https://progress-bar.dev/85?title=&width=420&color=00e5ff) |
-| 🗣️ NLP & LLMs | ![78%](https://progress-bar.dev/78?title=&width=420&color=00ccee) |
-| 🐍 Python | ![92%](https://progress-bar.dev/92?title=&width=420&color=00b4cc) |
-| 🌐 Flask / FastAPI | ![80%](https://progress-bar.dev/80?title=&width=420&color=00d4ff) |
-| 🎯 YOLO / OpenCV | ![83%](https://progress-bar.dev/83?title=&width=420&color=00e5ff) |
-| ⚙️ AI Automation | ![75%](https://progress-bar.dev/75?title=&width=420&color=00ccee) |
-
-</div>
 
 ---
 
@@ -159,7 +139,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://linkedin.com/in/esakki-kannan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://www.linkedin.com/in/esakkikannan/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=0d1117)](mailto:esakkikannan2005@gmail.com)
 &nbsp;
