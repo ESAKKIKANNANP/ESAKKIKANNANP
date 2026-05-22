@@ -1,0 +1,78 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d2137"/>
+      <stop offset="50%"  stop-color="#0a4a6b"/>
+      <stop offset="100%" stop-color="#006680"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00e5ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#006680" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a4a6b" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0.2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="230" fill="url(#bgGrad)"/>
+
+  <!-- Decorative dots / particles -->
+  <circle cx="60"  cy="30"  r="1.5" fill="#00e5ff" opacity="0.5"/>
+  <circle cx="180" cy="55"  r="1"   fill="#00d4ff" opacity="0.4"/>
+  <circle cx="320" cy="20"  r="2"   fill="#00e5ff" opacity="0.3"/>
+  <circle cx="500" cy="40"  r="1.5" fill="#80ffff" opacity="0.4"/>
+  <circle cx="700" cy="25"  r="1"   fill="#00e5ff" opacity="0.5"/>
+  <circle cx="870" cy="50"  r="2"   fill="#00ccee" opacity="0.3"/>
+  <circle cx="1050" cy="30" r="1.5" fill="#00e5ff" opacity="0.4"/>
+  <circle cx="1150" cy="60" r="1"   fill="#80ffff" opacity="0.5"/>
+  <circle cx="100" cy="110" r="1"   fill="#00d4ff" opacity="0.2"/>
+  <circle cx="950" cy="100" r="1.5" fill="#00e5ff" opacity="0.3"/>
+  <circle cx="400" cy="130" r="1"   fill="#80ffff" opacity="0.25"/>
+
+  <!-- Back wave -->
+  <path d="M0,160 C150,110 350,190 600,145 C850,100 1050,175 1200,140 L1200,230 L0,230 Z"
+        fill="url(#waveGrad2)"/>
+
+  <!-- Front wave -->
+  <path d="M0,185 C200,145 400,210 650,175 C900,140 1100,195 1200,165 L1200,230 L0,230 Z"
+        fill="url(#waveGrad1)"/>
+
+  <!-- Cyan line accent -->
+  <line x1="340" y1="148" x2="860" y2="148" stroke="#00e5ff" stroke-width="0.6" opacity="0.25"/>
+
+  <!-- Main name text with glow -->
+  <text x="600" y="88"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="58"
+        font-weight="700"
+        text-anchor="middle"
+        fill="#00e5ff"
+        filter="url(#softglow)"
+        letter-spacing="2">Esakki Kannan</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="125"
+        font-family="'Segoe UI', Arial, sans-serif"
+        font-size="16"
+        font-weight="400"
+        text-anchor="middle"
+        fill="#80ffff"
+        letter-spacing="1"
+        opacity="0.9">AI &amp; Data Science Student  |  Builder of Intelligent Systems</text>
+</svg>
