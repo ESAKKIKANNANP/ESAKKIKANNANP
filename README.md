@@ -8,11 +8,6 @@
 
 <br/>
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=EsakkiKannan&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/EsakkiKannan?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Freelance-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Open To Work"/>
 
 </div>
@@ -26,7 +21,6 @@ class EsakkiKannan:
     def __init__(self):
         self.name        = "Esakki Kannan"
         self.role        = "AI & Data Science Student"
-        self.location    = "India 🇮🇳"
         self.focus       = ["Artificial Intelligence", "Machine Learning",
                             "Deep Learning", "Computer Vision", "Full Stack Dev"]
         self.languages   = ["Python", "JavaScript", "SQL", "Bash"]
