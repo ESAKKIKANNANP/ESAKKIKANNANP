@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner — Cylinder style, Cyan/Teal theme -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:003d4d,100:006680&height=220&section=header&text=Esakki%20Kannan&fontSize=62&fontColor=00e5ff&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=17&descColor=80ffff&descAlignY=62&animation=blinking" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a4a6b,100:006680&height=230&section=header&text=Esakki%20Kannan&fontSize=62&fontColor=00e5ff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Builder%20of%20Intelligent%20Systems&descSize=17&descColor=80ffff&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation — Cyan colour -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=🤖+Engineering+AI+that+Thinks+%26+Sees...;🧠+Deep+Learning+%7C+Computer+Vision+%7C+NLP;🌐+Full+Stack+%2B+AI+%3D+Real+World+Products;🚀+Turning+Raw+Data+into+Smart+Decisions;⚡+Building+the+Future%2C+One+Model+at+a+Time)](https://git.io/typing-svg)
@@ -195,7 +195,7 @@ me.say_hi()
 <br/>
 
 <!-- Footer Wave — Cyan/Teal theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006680,50:003d4d,100:0d0d0d&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006680,50:0a4a6b,100:0d2137&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <sub>Made with ❤️ by Esakki Kannan &nbsp;•&nbsp; Last updated: 2025 &nbsp;•&nbsp; ⭐ Star some repos if you find them useful!</sub>
 
